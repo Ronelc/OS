@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ex2.dir/uthreads.cpp.o CMakeFiles/ex2.dir/main.cpp.o  -o ex2.exe -Wl,--out-implib,libex2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

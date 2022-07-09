@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex2/uthreads.cpp
+vector
+-
+map
+-
+stack
+-
+iostream
+-
+algorithm
+-
+uthreads.h
+/cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex2/uthreads.h
+setjmp.h
+-
+signal.h
+-
+unistd.h
+-
+sys/time.h
+-
+stdbool.h
+-
+
+/cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex2/uthreads.h
+

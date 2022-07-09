@@ -1,0 +1,19 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make.exe cmTC_0fb28/fast && make: *** No rule to make target 'cmTC_0fb28/fast'.  Stop.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make.exe cmTC_92e0a/fast && /usr/bin/make  -f CMakeFiles/cmTC_92e0a.dir/build.make CMakeFiles/cmTC_92e0a.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex2/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: CMakeFiles/cmTC_92e0a.dir/build.make: No such file or directory
+make[1]: *** No rule to make target 'CMakeFiles/cmTC_92e0a.dir/build.make'.  Stop.
+make[1]: Leaving directory '/cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex2/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:141: cmTC_92e0a/fast] Error 2
+
+
+
