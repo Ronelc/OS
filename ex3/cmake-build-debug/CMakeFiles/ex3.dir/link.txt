@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/ex3.dir/SampleClient.cpp.o CMakeFiles/ex3.dir/MapReduceFramework.cpp.o -o ex3.exe -Wl,--out-implib,libex3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
