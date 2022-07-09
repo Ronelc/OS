@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex4/cmake-build-debug/CMakeFiles/ex4.dir
+/cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Feuerstein/Desktop/year_3_semester_B/OS/Exercises/ex4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
