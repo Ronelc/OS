@@ -1,0 +1,28 @@
+ronelharedim, zoharmarbel
+Ronel Charedin (208917641),  Zohar Marbel (316298413)
+EX: 1
+
+FILES:
+osm.c -- a file with some code
+README -- This file
+Makefile -- The Makefile
+graph img.png -- The runtimes on the environments.
+
+REMARKS:
+When we ran the speed tests we used 100000 iterations and we used loop unrolling to reduce overhead.
+
+ANSWERS:
+
+Q1:
+Assignment 1:
+1: create a new directory named "Welcome".
+2: create a new directory inside "Welcome" named "To".
+3: create a new file inside "To" named "OS2021", for read and write. and check file status.
+4: write in file the next line: "username/n if you haven't read the course guidelines yet do it right now:
+5: write new line.
+6: close the file.
+7: remove the file "OS2021".
+8: remove the directory "To".
+9: remove the directory "Welcome".
+10: log out.
+11: return value 0 - Succeeded.
